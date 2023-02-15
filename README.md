@@ -1,2 +1,1 @@
-# tracking_board
-Created with CodeSandbox
+# device-tracking-board
